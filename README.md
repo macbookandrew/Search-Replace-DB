@@ -21,6 +21,8 @@ If you find a problem let us know in the issues area and if you can improve the 
 
 ### CLI script
 
+To use the PHP script, run `php srdb.cli.php` on the command line using arguments from the list below:
+
 ```
 ARGS
 	-h, --host
